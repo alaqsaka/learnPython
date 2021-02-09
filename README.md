@@ -13,3 +13,8 @@ Enjoy ^^
 
 2. Python Random Guessing Game 
 
+
+
+MIT License
+
+Copyright (c) 2021 Al-Aqsa Krisnaya Abidin
