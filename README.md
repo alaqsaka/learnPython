@@ -11,16 +11,46 @@ Enjoy ^^
 # Learning Python
 1. Python Madlibs Game
 
-[Source Code](https://github.com/alaqsaka/learnPython/blob/main/madlibs.py)
+  - [Source Code](https://github.com/alaqsaka/learnPython/blob/main/madlibs.py)
 
-[Demo](https://repl.it/@AqsaKA/pythonProject#madlibs.py)
+  - [Demo](https://repl.it/@AqsaKA/pythonProject#madlibs.py)
 
 2. Python Random Guessing Game 
+
+  - [Source Code](https://github.com/alaqsaka/learnPython/blob/main/numberGuessing.py)
+  
+  - [Demo](https://repl.it/@AqsaKA/pythonProject#numberGuessing.py)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 MIT License
 
 Copyright (c) 2021 Al-Aqsa Krisnaya Abidin
-
-
